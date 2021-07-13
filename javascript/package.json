@@ -1,0 +1,19 @@
+{
+  "name": "recursion",
+  "version": "1.0.0",
+  "description": "recursion practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-jest": "^27.0.6",
+    "jest": "^27.0.6",
+    "ts-jest": "^27.0.3"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.14.7"
+  }
+}
