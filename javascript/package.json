@@ -4,7 +4,7 @@
   "description": "recursion practice",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jasmine"
   },
   "author": "",
   "license": "ISC",
@@ -14,6 +14,7 @@
     "ts-jest": "^27.0.3"
   },
   "devDependencies": {
-    "@babel/preset-env": "^7.14.7"
+    "@babel/preset-env": "^7.14.7",
+    "jasmine": "^3.8.0"
   }
 }
